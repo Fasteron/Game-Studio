@@ -1,0 +1,87 @@
+
+header {
+
+    background-color: cornflowerblue;
+    padding: 50px 0;
+}
+
+
+section{
+    background-color: cadetblue;
+}
+
+
+.first-section {
+    background-color: coral;
+}
+
+
+#main {
+    background-color: #cecece;
+}
+
+
+header p {
+    text-transform: uppercase;
+}
+
+
+header div p {
+    color: yellow;
+}
+
+
+.first-section h1 {
+    font-size: 46px;
+}
+
+
+#main h2 {
+    color: blue;
+}
+
+
+header > p {
+    color: red;
+}
+
+
+header, main, footer {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+
+hr + article {
+    background-color: mediumslateblue;
+}
+
+
+article ~ hr {
+    height: 6px;
+    background-color: #333;
+}
+
+
+a[href] {
+    background-color: green;
+}
+
+
+a[href^=tel] {
+    background-color: yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
